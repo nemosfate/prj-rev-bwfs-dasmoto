@@ -1,0 +1,41 @@
+/*  I put the <br/> and text-align: center; because to me viusally it looked more appealing.
+    From the instruction and the spec sheet it seemed that changing up the non defined items would be ok.
+    */
+
+.boldblue {
+  font-weight: bold;
+  color: blue;
+}
+
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+
+#mainheader {
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+#hacksaw {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: lightcoral;
+}
+
+#finnish {
+  font-weight: bold;
+  font-size: 32px;
+  color: white;
+  background-color: skyblue;
+}
